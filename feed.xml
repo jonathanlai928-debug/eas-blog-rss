@@ -4,7 +4,7 @@
     <title>EAS Consulting Group Blog</title>
     <link>https://easconsultinggroup.com/eas-blog/</link>
     <description>Unofficial RSS feed generated from the EAS Consulting Group blog page.</description>
-    <lastBuildDate>Mon, 02 Mar 2026 14:29:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 17:32:07 +0000</lastBuildDate>
 <item>
       <title>FDA Expands Infant Formula Resources to Support Transparency and Access</title>
       <link>https://easconsultinggroup.com/fda-expands-infant-formula-resources-to-support-transparency-and-access/</link>
@@ -28,6 +28,12 @@
       <link>https://easconsultinggroup.com/fda-establishes-produce-regulatory-program-standards-to-strengthen-state-oversight/</link>
       <guid isPermaLink="true">https://easconsultinggroup.com/fda-establishes-produce-regulatory-program-standards-to-strengthen-state-oversight/</guid>
       <pubDate>Wed, 25 Feb 2026 14:06:45 +0000</pubDate>
+    </item>
+<item>
+      <title>Drug and Device Corner 2026 February</title>
+      <link>https://easconsultinggroup.com/drug-and-device-corner-2026-february/</link>
+      <guid isPermaLink="true">https://easconsultinggroup.com/drug-and-device-corner-2026-february/</guid>
+      <pubDate>Tue, 24 Feb 2026 05:11:23 +0000</pubDate>
     </item>
 <item>
       <title>Dietary Supplement Finished Product Testing and Specifications</title>
@@ -178,12 +184,6 @@
       <link>https://easconsultinggroup.com/drug-and-device-corner-2025-november/</link>
       <guid isPermaLink="true">https://easconsultinggroup.com/drug-and-device-corner-2025-november/</guid>
       <pubDate>Mon, 24 Nov 2025 11:45:08 +0000</pubDate>
-    </item>
-<item>
-      <title>Validation &amp; Use of FDA-Regulated Systems Using AI, ML &amp; Large Language Models (LLMs), such as ChatGPT</title>
-      <link>https://easconsultinggroup.com/validating-fda-regulated-systems/</link>
-      <guid isPermaLink="true">https://easconsultinggroup.com/validating-fda-regulated-systems/</guid>
-      <pubDate>Thu, 20 Nov 2025 21:25:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
