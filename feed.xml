@@ -4,7 +4,7 @@
     <title>EAS Consulting Group Blog</title>
     <link>https://easconsultinggroup.com/eas-blog/</link>
     <description>Unofficial RSS feed generated from the EAS Consulting Group blog page.</description>
-    <lastBuildDate>Mon, 09 Mar 2026 19:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 20:19:02 +0000</lastBuildDate>
 <item>
       <title>FDA Announces New Steps to Streamline Biosimilar Development</title>
       <link>https://easconsultinggroup.com/fda-announces-new-steps-to-streamline-biosimilar-development/</link>
@@ -34,6 +34,12 @@
       <link>https://easconsultinggroup.com/why-food-recalls-are-increasing/</link>
       <guid isPermaLink="true">https://easconsultinggroup.com/why-food-recalls-are-increasing/</guid>
       <pubDate>Tue, 03 Mar 2026 19:04:59 +0000</pubDate>
+    </item>
+<item>
+      <title>EAS Expands Services: Biologics and Biosimilars Consulting</title>
+      <link>https://easconsultinggroup.com/eas-expands-services-biologics-and-biosimilars-consulting/</link>
+      <guid isPermaLink="true">https://easconsultinggroup.com/eas-expands-services-biologics-and-biosimilars-consulting/</guid>
+      <pubDate>Tue, 03 Mar 2026 05:11:56 +0000</pubDate>
     </item>
 <item>
       <title>FDA Expands Infant Formula Resources to Support Transparency and Access</title>
@@ -178,12 +184,6 @@
       <link>https://easconsultinggroup.com/fda-launches-web-based-tobacco-premarket-application-forms-to-enhance-submission-process/</link>
       <guid isPermaLink="true">https://easconsultinggroup.com/fda-launches-web-based-tobacco-premarket-application-forms-to-enhance-submission-process/</guid>
       <pubDate>Wed, 03 Dec 2025 17:46:42 +0000</pubDate>
-    </item>
-<item>
-      <title>Transition from Computer System Validation (CSV) to Computer Software Assurance (CSA)</title>
-      <link>https://easconsultinggroup.com/transition-from-csv-to-csa/</link>
-      <guid isPermaLink="true">https://easconsultinggroup.com/transition-from-csv-to-csa/</guid>
-      <pubDate>Tue, 02 Dec 2025 19:38:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
