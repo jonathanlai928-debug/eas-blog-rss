@@ -4,7 +4,13 @@
     <title>EAS Consulting Group Blog</title>
     <link>https://easconsultinggroup.com/eas-blog/</link>
     <description>Unofficial RSS feed generated from the EAS Consulting Group blog page.</description>
-    <lastBuildDate>Thu, 19 Mar 2026 15:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 16:43:21 +0000</lastBuildDate>
+<item>
+      <title>FDA to Host Public Meeting on the Scope of Dietary Supplement Ingredients</title>
+      <link>https://easconsultinggroup.com/fda-to-host-public-meeting-on-the-scope-of-dietary-supplement-ingredients/</link>
+      <guid isPermaLink="true">https://easconsultinggroup.com/fda-to-host-public-meeting-on-the-scope-of-dietary-supplement-ingredients/</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
 <item>
       <title>FDA Withdraws Temporary COVID FSMA Guidances Related to Onsite Audits</title>
       <link>https://easconsultinggroup.com/fda-withdraws-temporary-covid-fsma-guidances-related-to-onsite-audits/</link>
@@ -178,12 +184,6 @@
       <link>https://easconsultinggroup.com/medical-device-qmsr-iso-13485/</link>
       <guid isPermaLink="true">https://easconsultinggroup.com/medical-device-qmsr-iso-13485/</guid>
       <pubDate>Mon, 15 Dec 2025 05:11:01 +0000</pubDate>
-    </item>
-<item>
-      <title>Health Canada</title>
-      <link>https://easconsultinggroup.com/health-canada/</link>
-      <guid isPermaLink="true">https://easconsultinggroup.com/health-canada/</guid>
-      <pubDate>Thu, 04 Dec 2025 05:11:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
