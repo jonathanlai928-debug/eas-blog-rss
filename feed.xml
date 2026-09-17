@@ -4,7 +4,13 @@
     <title>EAS Consulting Group Blog</title>
     <link>https://easconsultinggroup.com/eas-blog/</link>
     <description>Unofficial RSS feed generated from the EAS Consulting Group blog page.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 17:19:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:37:07 +0000</lastBuildDate>
+<item>
+      <title>FDA Publishes 2026 Food Code for Retail and Food Service</title>
+      <link>https://easconsultinggroup.com/fda-2026-food-code-retail-food-service/</link>
+      <guid isPermaLink="true">https://easconsultinggroup.com/fda-2026-food-code-retail-food-service/</guid>
+      <pubDate>Thu, 17 Sep 2026 19:37:56 +0000</pubDate>
+    </item>
 <item>
       <title>FDA Updates Lists of Medical Devices Incorporating Digital Health Technology</title>
       <link>https://easconsultinggroup.com/fda-updates-digital-health-medical-device-lists/</link>
@@ -178,12 +184,6 @@
       <link>https://easconsultinggroup.com/import-seafood-haccp/</link>
       <guid isPermaLink="true">https://easconsultinggroup.com/import-seafood-haccp/</guid>
       <pubDate>Thu, 18 Jun 2026 21:36:46 +0000</pubDate>
-    </item>
-<item>
-      <title>Animal Food GRAS: Unpacking the Essentials</title>
-      <link>https://easconsultinggroup.com/animal-food-gras-unpacking-the-essentials/</link>
-      <guid isPermaLink="true">https://easconsultinggroup.com/animal-food-gras-unpacking-the-essentials/</guid>
-      <pubDate>Thu, 18 Jun 2026 05:11:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
