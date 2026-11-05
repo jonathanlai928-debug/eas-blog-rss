@@ -4,7 +4,13 @@
     <title>EAS Consulting Group Blog</title>
     <link>https://easconsultinggroup.com/eas-blog/</link>
     <description>Unofficial RSS feed generated from the EAS Consulting Group blog page.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 10:09:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:20:53 +0000</lastBuildDate>
+<item>
+      <title>Understanding FDA Registrations and the Role of Your US Agent</title>
+      <link>https://easconsultinggroup.com/understanding-the-role-of-your-us-agent/</link>
+      <guid isPermaLink="true">https://easconsultinggroup.com/understanding-the-role-of-your-us-agent/</guid>
+      <pubDate>Wed, 04 Nov 2026 05:11:15 +0000</pubDate>
+    </item>
 <item>
       <title>Drug and Device Corner 2026 October</title>
       <link>https://easconsultinggroup.com/drug-and-device-corner-2026-october/</link>
@@ -178,12 +184,6 @@
       <link>https://easconsultinggroup.com/when-ai-isnt-enough-human-expertise-remains-essential-in-regulatory-affairs/</link>
       <guid isPermaLink="true">https://easconsultinggroup.com/when-ai-isnt-enough-human-expertise-remains-essential-in-regulatory-affairs/</guid>
       <pubDate>Tue, 30 Jun 2026 19:45:23 +0000</pubDate>
-    </item>
-<item>
-      <title>Drug and Device Corner 2026 June</title>
-      <link>https://easconsultinggroup.com/drug-and-device-corner-2026-june/</link>
-      <guid isPermaLink="true">https://easconsultinggroup.com/drug-and-device-corner-2026-june/</guid>
-      <pubDate>Mon, 29 Jun 2026 15:36:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
